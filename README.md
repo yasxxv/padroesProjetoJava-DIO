@@ -1,4 +1,4 @@
->🏦 Banco Digital com Java
+>🔍 Explorando o conceito de Padrões de Projeto
 
 ## ✏️ Sobre o projeto
 
